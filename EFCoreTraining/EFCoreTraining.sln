@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Starter", "Starter\Starter.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ORM_SQL_Izolasyonu", "ORM_SQL_Izolasyonu\ORM_SQL_Izolasyonu.csproj", "{7D5FF98F-3117-469C-893A-BAB0051C463D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database_First", "Database_First\Database_First.csproj", "{55C69D9B-0852-4079-BBF8-18063F3A8A50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Database_First", "Database_First\Database_First.csproj", "{55C69D9B-0852-4079-BBF8-18063F3A8A50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Code_First", "Code_First\Code_First.csproj", "{B6B8B1B1-9E25-4AF9-96DC-09D36F3B6EB9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{55C69D9B-0852-4079-BBF8-18063F3A8A50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55C69D9B-0852-4079-BBF8-18063F3A8A50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55C69D9B-0852-4079-BBF8-18063F3A8A50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6B8B1B1-9E25-4AF9-96DC-09D36F3B6EB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6B8B1B1-9E25-4AF9-96DC-09D36F3B6EB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6B8B1B1-9E25-4AF9-96DC-09D36F3B6EB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6B8B1B1-9E25-4AF9-96DC-09D36F3B6EB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
