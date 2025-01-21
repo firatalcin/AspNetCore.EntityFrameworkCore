@@ -14,6 +14,7 @@ using System.Collections.Generic;
 #endregion
 #region context.DbSet.AddAsync Fonksiyonu
 //await context.Urunler.AddAsync(urun);
+
 #endregion
 
 //await context.SaveChangesAsync(); 
