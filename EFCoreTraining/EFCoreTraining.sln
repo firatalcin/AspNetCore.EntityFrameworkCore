@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persisting_The_Data", "Pers
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persisting_The_Data_Update", "Persisting_The_Data_Update\Persisting_The_Data_Update.csproj", "{B4FF8A13-4792-42B6-885A-C02AAF5A7402}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persisting_The_Data_Delete", "Persisting_The_Data_Delete\Persisting_The_Data_Delete.csproj", "{1D0309B8-A8B6-421F-B03C-17E2A47DC58F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{B4FF8A13-4792-42B6-885A-C02AAF5A7402}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4FF8A13-4792-42B6-885A-C02AAF5A7402}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4FF8A13-4792-42B6-885A-C02AAF5A7402}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D0309B8-A8B6-421F-B03C-17E2A47DC58F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D0309B8-A8B6-421F-B03C-17E2A47DC58F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D0309B8-A8B6-421F-B03C-17E2A47DC58F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D0309B8-A8B6-421F-B03C-17E2A47DC58F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
