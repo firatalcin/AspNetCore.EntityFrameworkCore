@@ -24,6 +24,7 @@ Console.WriteLine();
 //Urun u = new() { Id = 1 };
 //context.Entry(u).State = EntityState.Deleted;
 //await context.SaveChangesAsync();
+
 #endregion
 #endregion
 #region Birden Fazla Veri Silinirken Nelere Dikkat Edilmelidir?
