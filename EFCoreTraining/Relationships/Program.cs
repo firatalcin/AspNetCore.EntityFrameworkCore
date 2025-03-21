@@ -28,7 +28,7 @@ class Calisan
     public string CalisanAdi { get; set; }
     public int DepartmanId { get; set; }
 
-    public Departman Departman { get; set; }
+    public Departman Departman { get; set; } 
 }
 class Departman
 {
