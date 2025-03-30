@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Relationships", "Relationsh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "One_to_One_Relationship", "One_to_One_Relationship\One_to_One_Relationship.csproj", "{DEE06658-919F-4ADC-AED7-6EA5A1040B91}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "One_to_Many_Relationship", "One_to_Many_Relationship\One_to_Many_Relationship.csproj", "{020F949C-CEE2-4961-84AA-1142978E8932}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{DEE06658-919F-4ADC-AED7-6EA5A1040B91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEE06658-919F-4ADC-AED7-6EA5A1040B91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEE06658-919F-4ADC-AED7-6EA5A1040B91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{020F949C-CEE2-4961-84AA-1142978E8932}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{020F949C-CEE2-4961-84AA-1142978E8932}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{020F949C-CEE2-4961-84AA-1142978E8932}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{020F949C-CEE2-4961-84AA-1142978E8932}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
